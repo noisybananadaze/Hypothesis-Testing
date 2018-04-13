@@ -1,2 +1,2 @@
 # Hypothesis-Testing
-Hypothesis Testing, pandas
+Hypothesis Testing, T Test
