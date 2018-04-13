@@ -1,2 +1,2 @@
 # Hypothesis-Testing
-Hypothesis Testing, T Test
+Hypothesis Testing, T-Test
